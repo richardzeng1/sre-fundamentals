@@ -1,11 +1,13 @@
 # Resources
 
-Table of Contents\
-1. 
-2. 
-3. 
+Table of Contents
+1. Google's SRE Handbook
+2. School of SRE
 
+## Google's SRE Handbook
+### https://sre.google/sre-book/table-of-contents/ 
+Google is one of the benchmarks for SRE. They run extremely large and critical infrastructure for the tech world. They share their valuable insights on implementing an effective SRE team and talk about the mindset an SRE must have.
 
-The SRE philsopy is how do we run a reliable and high performing service. 
-
-Each company has their own implementation of SRE but a good point of reference is Google. They are industry leaders in SREs, have published extensive documentation and run one of the largest production environments. You can read Google's SRE book here: https://sre.google/sre-book/table-of-contents/. 
+## School of SRE
+### https://linkedin.github.io/school-of-sre/
+School of SRE covers the essential technical knowledge for SRE work. Some of the topics included are Linux, basic coding and networking. All the topics covered by School of SRE is used daily in my professional career.
